@@ -1,0 +1,34 @@
+# Week 3: Notes
+
+- Webmaps
+  - The theory behind this still mystfies me
+  - Mapwarper
+    - Small corner of my map is cut off
+    - Number of digitzed historical maps of Ottawa has either vastly increased since May or their updated search has made looking for things much easier
+    - [Selected Practice Map](https://www.bac-lac.gc.ca/eng/CollectionSearch/Pages/record.aspx?app=FonAndCol&IdNumber=3844835)
+      - Have to reupload my map because I cannot find how to delete an added control point...
+      - Well, I certainly put the "warp" in Mapwarper
+      - An interesting testament to the accuracy of historical/hand-drawn maps? --> I had no problems identifying the landmarks that corresponded to map locations and placing the control points, but the actual distance/geographical measurements are not QUITE right
+  - Official OSMC Map
+    - All graves with final date of 1905 or earlier
+    - Unsure of how to incorporate "family" grave monuments with multiple dates
+    - Stamen maps don't allow for enough zoom while keeping colour detail :( --> alternative?
+    - Basically need overlay map --> email Meg
+    - Add full inscription to points would be potentially better --> perhaps use another, smaller location marker 
+- Photogammetry
+  - I entirely forgot to take a sequence of overlapping images
+  - Have one monument that has all 4 sides --> could a model be constructed with human help to fill in gaps?
+    - Sketchfab does not like file size
+    - Meshroom and Regard3D doesn't get along with lack of images --> could I force it somehow?
+      - Will look more into this next week
+
+- Quotes
+  - "Segregated in death, as in life" -Cook
+    - That one old grave randomly way out from the others
+  - "While the DEBS project was keen to encourage surveyors to focus more on the material form of monuments, it was recognised that many groups, and many existing datasets, are more orientated towards documenting inscriptions and people interred within burial grounds." -DEBS
+  - "Segregated in death, as in life" -Cook
+    - That one old grave randomly way out from the others
+  - "Geovisualization includes in this context any graphic that enables a spatial understanding of the time-dependent  phenomenon  or  process  of  interest" -Gupta/Devillers
+    - My mapwarper pratice kind of does this lol
+  - "Yet our  overall  understanding  of  the  human  past  is  impacted  by  the interpretation of these results, which reflect an archaeologist’s beliefs and values and can offer insight on the use of maps in archaeology." -Gupta/Devillers
+    - "Connectedness to our own humanity, re"exivity toward our own emo-tional states, and an extension of human compassion that transcends time much as it  transcends  cultural  divides  in  the  present  all  make  possible  a  different  kind  of archaeology  where  emotion  is  integral  to  the  human  experience  past  and  present" -Baxterzszszszzzx

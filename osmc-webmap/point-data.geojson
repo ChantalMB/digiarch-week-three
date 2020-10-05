@@ -1,0 +1,275 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952218,45.438955 ]
+    },
+    "properties": {
+    "Label":"Entrance to the cemetery!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952457,45.438914 ]
+    },
+    "properties": {
+    "Label":"Mary Ann & Hamnett Kirkes Pinhey- 1852 & 1837"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952521,45.438889 ]
+    },
+    "properties": {
+    "Label":"Arabella L. Pinhey- 1905"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952511,45.438880 ]
+    },
+    "properties": {
+    "Label":"Horace & Catherine Pinhey- 1875 & 1898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952500,45.438868 ]
+    },
+    "properties": {
+    "Label":"Charles Towley Pinhey- 1879"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952479,45.438811 ]
+    },
+    "properties": {
+    "Label":"Muriel- 1895"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952326,45.438860 ]
+    },
+    "properties": {
+    "Label":"John Wilson & Helen Beatty- 1881 & 1899"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952332,45.438868 ]
+    },
+    "properties": {
+    "Label":"Jane Wilson- 1818"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952348,45.438874 ]
+    },
+    "properties": {
+    "Label":"John Beatty- 1838"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952296,45.438882 ]
+    },
+    "properties": {
+    "Label":"Slack Family"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952460,45.438793 ]
+    },
+    "properties": {
+    "Label":"Elizabeth Mary Greene- 1877"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952320,45.438686 ]
+    },
+    "properties": {
+    "Label":" James Rolston & Elizabeth Little- 1892 & 1890"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952307,45.438676 ]
+    },
+    "properties": {
+    "Label":" William & Emeline Elizabeth Rolston- 1870"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952211,45.438648 ]
+    },
+    "properties": {
+    "Label":"James Read- 1885(?)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952345,45.438802 ]
+    },
+    "properties": {
+    "Label":"Read Family"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952219,45.438692 ]
+    },
+    "properties": {
+    "Label":"Mary Ann & Ellen Frances Lloyd- 1860"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952172,45.438666 ]
+    },
+    "properties": {
+    "Label":"Grace Read- 1861"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952170,45.438653 ]
+    },
+    "properties": {
+    "Label":"James Read- 1861"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952162,45.438647 ]
+    },
+    "properties": {
+    "Label":"Oceana Read- 1882"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952145,45.438631 ]
+    },
+    "properties": {
+    "Label":"Frederick Henry Street & Sarah Jane- 1862 & 1880"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952089,45.438655 ]
+    },
+    "properties": {
+    "Label":"Harriott Boomer- 1852"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952126,45.438672 ]
+    },
+    "properties": {
+    "Label":"Greene Family"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952179,45.438714 ]
+    },
+    "properties": {
+    "Label":" Eliza Ann Fitzgerald- 1817"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952134,45.438731 ]
+    },
+    "properties": {
+    "Label":"Jordan Family"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952285,45.438846 ]
+    },
+    "properties": {
+    "Label":"Benjamin Street- 1838"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952258,45.438855 ]
+    },
+    "properties": {
+    "Label":" JB Smith- 1861"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.952158,45.438710 ]
+    },
+    "properties": {
+    "Label":" John Benning Monk- 1854"
+    }
+  }
+]
+}
