@@ -14,7 +14,7 @@
     - Unsure of how to incorporate "family" grave monuments with multiple dates
     - Stamen maps don't allow for enough zoom while keeping colour detail :( --> alternative?
     - Basically need overlay map --> email Meg
-    - Add full inscription to points would be potentially better --> perhaps use another, smaller location marker 
+    - Add full inscription to points would be potentially better --> perhaps use another, smaller location marker
 - Photogammetry
   - I entirely forgot to take a sequence of overlapping images
   - Have one monument that has all 4 sides --> could a model be constructed with human help to fill in gaps?
@@ -31,4 +31,4 @@
   - "Geovisualization includes in this context any graphic that enables a spatial understanding of the time-dependent  phenomenon  or  process  of  interest" -Gupta/Devillers
     - My mapwarper pratice kind of does this lol
   - "Yet our  overall  understanding  of  the  human  past  is  impacted  by  the interpretation of these results, which reflect an archaeologist’s beliefs and values and can offer insight on the use of maps in archaeology." -Gupta/Devillers
-    - "Connectedness to our own humanity, re"exivity toward our own emo-tional states, and an extension of human compassion that transcends time much as it  transcends  cultural  divides  in  the  present  all  make  possible  a  different  kind  of archaeology  where  emotion  is  integral  to  the  human  experience  past  and  present" -Baxterzszszszzzx
+  - "Connectedness to our own humanity, reexivity toward our own emo-tional states, and an extension of human compassion that transcends time much as it  transcends  cultural  divides  in  the  present  all  make  possible  a  different  kind  of archaeology  where  emotion  is  integral  to  the  human  experience  past  and  present" -Baxter
